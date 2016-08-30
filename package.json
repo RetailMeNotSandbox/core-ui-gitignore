@@ -1,0 +1,15 @@
+{
+  "name": "@retailmenot/core-ui-gitignore",
+  "version": "1.0.1",
+  "description": ".gitignore for RetailMeNot Core UI projects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RetailMeNotSandbox/core-ui-gitignore.git"
+  },
+  "author": "RMN Engineering",
+  "contributors": [
+    "Eric Capps <ecapps@rmn.com>",
+    "Lon Ingram <lingram@rmn.com>"
+  ],
+  "license": "MIT"
+}
